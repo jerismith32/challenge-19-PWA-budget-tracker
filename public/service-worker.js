@@ -1,12 +1,13 @@
 //Require Express instead of webpack (different from module project)
 
-const APP_PREFIX = 'FoodEvent-';     
+
+const APP_PREFIX = 'Budget Tracker-';     
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION
 const FILES_TO_CACHE = [
-  "./index.html",
-  "./js/index.js",
-  "./css/style.css"
+  "index.html",
+  "js/index.js",
+  "css/style.css"
 ];
 
 // Respond with cached resources
