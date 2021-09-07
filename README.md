@@ -39,7 +39,7 @@
   [Manifest.json Additional Information](https://web.dev/add-manifest/)
 
   ## Link
-  [Deployed Link (through Heroku)]()
+  [Deployed Link (through Heroku)](https://challenge-19-budget-tracker.herokuapp.com/)
 
   ## Questions
   [GitHub](https://github.com/jerismith32)
